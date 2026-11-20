@@ -1,0 +1,7 @@
+/vendor/
+.venv*/
+.env
+/out/*
+!/out/.gitkeep
+__pycache__/
+*.py[cod]
